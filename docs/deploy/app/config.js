@@ -175,7 +175,7 @@ app.cfg = {
 					group: "default",
 					themeMajor: "white",
 					// Header background
-					header: "#001626",
+					header: "#777777",
 					// Header title
 					headerTitle: "#FFFFFF",
 					// Header link&sharing
@@ -197,7 +197,7 @@ app.cfg = {
 					// Esri logo "white" or "black"
 					esriLogo: "white",
 					esriLogoMobile: "black",
-					tab: "#666666",
+					tab: "#333333",
 					tabActive: "#FFFFFF",
 					tabHover: "#666666",
 					tabText: "#FFFFFF",
