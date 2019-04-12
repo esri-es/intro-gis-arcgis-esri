@@ -2,7 +2,7 @@
   "name": "Storymaps-MapSeries",
   "version": "1.14.0",
   "scripts": {
-    "deploy": "grunt && mv deploy docs",
+    "deploy": "grunt && rm -rf docs && mv deploy docs",
     "serve": "grunt server && echo \"http://localhost:9090/src/?appid=APPID\""
   },
   "devDependencies": {
