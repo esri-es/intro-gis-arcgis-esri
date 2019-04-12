@@ -197,7 +197,7 @@ app.cfg = {
 					// Esri logo "white" or "black"
 					esriLogo: "white",
 					esriLogoMobile: "black",
-					tab: "#333333",
+					tab: "#666666",
 					tabActive: "#FFFFFF",
 					tabHover: "#666666",
 					tabText: "#FFFFFF",
