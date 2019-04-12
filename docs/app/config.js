@@ -175,7 +175,7 @@ app.cfg = {
 					group: "default",
 					themeMajor: "white",
 					// Header background
-					header: "#777777",
+					header: "#001626",
 					// Header title
 					headerTitle: "#FFFFFF",
 					// Header link&sharing
